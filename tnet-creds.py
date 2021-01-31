@@ -24,11 +24,7 @@ from urllib import unquote
 #from IPython import embed
 
 ##########################
-# Potention ToDo:
-# MySQL seed:hash
-# VNC
-# Oracle?
-# Add file carving from dissectors.py
+# Based On DanMcInerney/net-creds is licensed under the GNU General Public License v3.0
 #########################
 
 # Unintentional code contributors:
