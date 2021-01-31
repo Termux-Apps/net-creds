@@ -6,16 +6,12 @@ It concatenates fragmented packets and does not rely on ports to classify servic
 * Sniffs HTTP Logins/Passwords
 * Detects IRC/FTP/Telnet/POP/IMAP/SMTP Logins With Passwords 
 
-### Installing In Termux 
+### Installing In Termux :
 
 Installing Packages & Downloading :
 
-`apt-get full-upgrade && clear && apt-get install git python2 -y &&
-git clone https://github.com/Termux-Apps/tnet-creds/ && cd tnet-creds` 
+`apt-get update && apt-get upgrade && apt-get install git && git clone https://github.com/Termux-Apps/tnet-creds/ && cd tnet-creds && bash install.sh`
 
-Installing Requirements :
-
-`python2 -m pip install -r requirements`
 
 ### Usage Examples
 
