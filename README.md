@@ -1,4 +1,4 @@
-Sniff the passwords and hashes from an interface or pcap file extensively.
+Sniff the passwords and hashes from an interface or packet data from OSI model Layers 2-7 (pcap file) extensively.
 It concatenates fragmented packets and does not rely on ports to classify services.
 ### Features :
 
