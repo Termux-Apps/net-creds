@@ -19,9 +19,9 @@ Installing Requirements :
 
 ### Usage Examples
 
-`sudo python net-creds.py`
+`sudo python tnet-creds.py`
 
-`sudo python net-creds.py -i <interface>`
+`sudo python tnet-creds.py -i <interface>`
 
 
 #### License 
