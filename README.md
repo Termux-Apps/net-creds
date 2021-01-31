@@ -15,7 +15,7 @@ git clone https://github.com/Termux-Apps/tnet-creds/ && cd tnet-creds`
 
 Installing Requirements :
 
-`pip2 install -r requirements.txt`
+`python2 -m pip install -r requirements`
 
 ### Usage Examples
 
