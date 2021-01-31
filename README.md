@@ -6,7 +6,7 @@ It concatenates fragmented packets and does not rely on ports to classify servic
 * Sniffs HTTP Logins/Passwords
 * Detects IRC/FTP/Telnet/POP/IMAP/SMTP Logins With Passwords 
 
-###Installing In Termux :
+### Installing In Termux 
 
 Installing Packages & Downloading :
 
@@ -19,14 +19,12 @@ Installing Requirements :
 
 ### Usage Examples
 
-
 `sudo python net-creds.py`
 
 `sudo python net-creds.py -i <interface>`
 
 
-
-####License 
+#### License 
 
 Based On DanMcInerney/net-creds which is licensed under the
 GNU General Public License v3.0
